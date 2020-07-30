@@ -15,4 +15,5 @@
  ## Commit messages
  Default editor is vim
 
- test
+## Merging
+Merging means to bring the changes from one branch into another.
