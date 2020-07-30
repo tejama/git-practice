@@ -33,6 +33,10 @@
  - git log --graph: show graph view of commits
  - git log --all: shows all commits across branches
 
+ - git show: show a summary of all commits
+ - git show <commit>: show differences introduced by commit
+ 
+
  ## Commit messages
  Default editor is vim
 
