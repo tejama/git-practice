@@ -7,5 +7,9 @@
  - git config: Set or get configuration
  - git log: Show history of project commits
 
+ - git show: show a summary of all commits
+ - git show <commit>: show differences introduced by commit
+ 
+
  ## Commit messages
  Default editor is vim
