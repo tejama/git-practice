@@ -6,6 +6,7 @@
  - git commit
  - git config: Set or get configuration
  - git log: Show history of project commits
+ - git stash list: List all stashes in branch
 
  ## Commit messages
  Default editor is vim
