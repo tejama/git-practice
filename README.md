@@ -17,6 +17,7 @@
  - git checkout -b branchane: creates branch then checks it out
  - git stash: Hide uncommitted changes before switching branches
  - git stash pop: Brings last item stashed back into the working directory
+ - git stash list: List all stashes in branch
 
  ## Commit messages
  Default editor is vim
