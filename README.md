@@ -7,5 +7,9 @@
  - git config: Set or get configuration
  - git log: Show history of project commits
 
+ - git diff: show the difference between commits, the working directory, and the staging area
+ - git diff <commit>: Show diff between staged changes and that particular commit
+ - git diff --cached: diff between staging area and head
+
  ## Commit messages
  Default editor is vim
