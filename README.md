@@ -6,6 +6,8 @@
  - git commit
  - git config: Set or get configuration
  - git log: Show history of project commits
+ - git branch -c: create branch
+ - git checkout: switch branches
 
  - git merges: Merge changes from different branches
  - git remote add <remote> <url>: Add a new <remote> and <url>
