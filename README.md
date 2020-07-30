@@ -6,6 +6,11 @@
  - git commit
  - git config: Set or get configuration
  - git log: Show history of project commits
+ 
+ - git merge: Merge changes from different branches
+ - git remote add <remote> <url>: Add a new <remote> and <url>
+ - git remote -v: List remote repos
+ - git push -u <remote> <branch>: Push <branch> to <remote>, and set default upstream for <branch>
 
  ## Commit messages
  Default editor is vim
