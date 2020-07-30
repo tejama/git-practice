@@ -11,6 +11,9 @@
  - git log --author <string>: show all commit with matching author
  - git log --since <date>: show commits since date
  - git log --until <date>: show commits prior to last date
+ - git log --oneline: only show a single line summary
+ - git log --graph: show graph view of commits
+ - git log --all: shows all commits across branches
 
  ## Commit messages
  Default editor is vim
