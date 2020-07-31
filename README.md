@@ -8,7 +8,10 @@
  - git log: Show history of project commits
  - git branch -c: create branch
  - git checkout: switch branches
- - git merges: Merge changes from different branches
+ - git merge: Merge changes from different branches
+ - git merge --abort: Abort a merge in the event of a merge conflict that you want to back out of
+ - git merge <branch>: Merge the specified branch
+ - git merge --no-commit --no-ff <branch>: 
  - git remote add <remote> <url>: Add a new <remote> and <url>
  - git remote -v: List remote repos
  - git push -u <remote> <branch>: Push <branch> to <remote>, and set default upstream for <branch>
@@ -32,10 +35,11 @@
  - git log --oneline: only show a single line summary
  - git log --graph: show graph view of commits
  - git log --all: shows all commits across branches
+ - git log new-branch..master: Show all changes between branches
 
  - git show: show a summary of all commits
  - git show <commit>: show differences introduced by commit
- 
+
 
  ## Commit messages
  Default editor is vim
